@@ -14,5 +14,22 @@ As an aspiring Data Analyst, I am continuously learning and expanding my knowled
 
 💻 **GitHub:** github.com/Irom-Kabita
 
+## 🛠️ Core Skills
+
+- 📊 Data Analysis
+- 📈 Data Visualization
+- 📋 Dashboard Development
+- 🗄️ SQL
+- 🐍 Python
+- 📑 Microsoft Excel
+- 📊 Power BI
+- 📉 Tableau
+- 🧹 Data Cleaning & Transformation
+- 📌 Exploratory Data Analysis (EDA)
+- 📐 Statistical Analysis
+- 📖 Business Intelligence & Reporting
+- 🧠 Problem Solving
+- 📢 Data Storytelling
+
 
 
